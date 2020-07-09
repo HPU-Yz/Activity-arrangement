@@ -169,7 +169,7 @@ https://zhuanlan.zhihu.com/p/29332977?group_id=891668221558661120
 # 五、成员分组
 
 | 组长 |成员 |
-|:-:|:-:| 
+|:-:|:-| 
 |王荣胜|张曼、李书煜、党浩、陈鹏|
 |宁辉|李振华、周新雨、王明杰、姜航顺|
 |杨国庆|陈海伟、王烁博、刘凯伦、张雯|
@@ -187,3 +187,9 @@ https://zhuanlan.zhihu.com/p/29332977?group_id=891668221558661120
 6. [梁黄淮AI学习博客](https://blog.csdn.net/qq_42057046)
 7. [张蓬勃AI学习博客](https://www.laugh12321.cn/)
 8. [AI Study博客](https://ai.sqdxwz.com/)
+
+# 七、作业提交
+
+1. 全体成员把自己学习的知识和代码必须要有笔记，可以发布为`博客` 或者`Github` ，把链接地址放到表格里面：https://shimo.im/sheets/98qKxyVkdpjTJRRk/MODOC
+
+2. 单个成员作业可以提交给组长查看
