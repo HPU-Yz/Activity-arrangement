@@ -136,7 +136,7 @@ https://blog.csdn.net/bluesliuf/article/details/88830898
 ### 8.CNN
 
 
-<center><font size="12" face="arial" color="red">进行考核、淘汰</font></center>
+<center><h1>进行考核、淘汰</h1></center>
 
 ## 第四周
 
@@ -174,7 +174,7 @@ https://zhuanlan.zhihu.com/p/29332977?group_id=891668221558661120
 |宁辉|李振华、周新雨、王明杰、姜航顺|
 |杨国庆|陈海伟、王烁博、刘凯伦、张雯|
 |刘贤良|梁博、马涛、孙玉雪|
-|杨志|王晨琛、韩袁塬、李孟娇|
+|杨志|<del>王晨琛</del>、韩袁塬、李孟娇、孟庆康|
 
 # 六、学长资料
 
